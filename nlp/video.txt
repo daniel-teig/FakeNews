@@ -1,0 +1,36 @@
+ ## Video
+ 
+ - Tweet1 marked as confirmed true fact (green check mark)
+ - Tweet2 marked as true fact because of similarity: (green circle(?))
+    - show source
+    - show menu to report as true fact / fake fact
+    
+ - Tweet3 marked as confirmed fake fact (red exclamation mark / cross)
+ - Tweet4 marked as fake fact because of similarity: (red circle/ yellow thingy (?))
+    - show source
+    - show menu to report as true fact / fake fact
+ 
+ - Tweet5 marked as "no information" (blue/yellow, something)
+    - this tweet does not state any facts, so it is irrelevant
+ - Tweet6 marked as "no information" (blue/yellow, something)
+    - show menu to report as true fact / fake fact
+    
+ [Add a new fake fact that was previously marked as "no information" (don't need to show that)]
+ 
+ - Tweet6 marked as confirmed fake fact (was previously marked as "no information")
+   
+ ## Tweets
+ 
+ Tweet1:
+        Apples 
+        
+ Tweet5:
+        I'd really like to go the gym now!
+        Does anyone else like baked potatoes for breakfast?
+        I can't believe he did that!!! :O #lifestream #watching
+ 
+ 
+ 
+ ## Facts
+ 
+True

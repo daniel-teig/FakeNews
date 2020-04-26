@@ -1,0 +1,379 @@
+[{
+        "body": "This is the tweet body",
+        "postTime": "3h",
+        "comments": 233,
+        "likes": 567,
+        "retweets": 387,
+        "user": {
+            "username": "Username Here",
+            "nickname": "Nickname Here",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "BODY",
+        "postTime": "3h",
+        "comments": 2,
+        "likes": 1,
+        "retweets": 1,
+        "user": {
+            "username": "Username",
+            "nickname": "Nickname",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Bananas are yellow #facts",
+        "postTime": "1h",
+        "comments": 12,
+        "likes": 34,
+        "retweets": 34,
+        "user": {
+            "username": "@AddisonBa",
+            "nickname": "Addison Battle",
+            "profilePic": "pic1.jpg"
+        },
+        "reported": "v-true",
+        "source": null
+    },
+    {
+        "body": "Funfact: A banana is botanically a berry :D #berrylife",
+        "postTime": "2h",
+        "comments": 16,
+        "likes": 32,
+        "retweets": 34,
+        "user": {
+            "username": "@divinewoodley",
+            "nickname": "Divine Woodley",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Look at this article: Bananas are grown in 135 countries. Didn't know that before!",
+        "postTime": "2h",
+        "comments": 12,
+        "likes": 23,
+        "retweets": 17,
+        "user": {
+            "username": "@wilks_l",
+            "nickname": "Lexie Wilks",
+            "profilePic": "pic9.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "The lethality of Covid-19 is higher for older people",
+        "postTime": "1h",
+        "comments": 291,
+        "likes": 543,
+        "retweets": 237,
+        "user": {
+            "username": "@at_86",
+            "nickname": "Aron Thorne",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Bananas are berries",
+        "postTime": "5h",
+        "comments": 99,
+        "likes": 120,
+        "retweets": 121,
+        "user": {
+            "username": "@biologist9000",
+            "nickname": "Kymani Curran",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "There are 135 countries in which yellow bananas are grown",
+        "postTime": "3h",
+        "comments": 5,
+        "likes": 23,
+        "retweets": 65,
+        "user": {
+            "username": "@hamerleo",
+            "nickname": "Leonardo Hamer",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I just learned that bananas are yellow #colorblind",
+        "postTime": "2h",
+        "comments": 9,
+        "likes": 47,
+        "retweets": 12,
+        "user": {
+            "username": "@arianagrandefan33472",
+            "nickname": "Euan Kelly",
+            "profilePic": "pic8.jpg"
+        },
+        "reported": "a-true",
+        "source": 1
+    },
+    {
+        "body": "Older people are more likely to die from #Covid-19. Please be careful!",
+        "postTime": "7h",
+        "comments": 10,
+        "likes": 300,
+        "retweets": 354,
+        "user": {
+            "username": "@MattyBa",
+            "nickname": "Mateo Baird",
+            "profilePic": "pic7.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "The sky is confirmed to be red now!",
+        "postTime": "3h",
+        "comments": 2,
+        "likes": 3,
+        "retweets": 1,
+        "user": {
+            "username": "@PikeSam",
+            "nickname": "Sameeha Pike",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Bees can't really fly and are invented by the government to control our minds.",
+        "postTime": "2h",
+        "comments": 21,
+        "likes": 31,
+        "retweets": 79,
+        "user": {
+            "username": "@truthfinder423",
+            "nickname": "Menaal Quinn",
+            "profilePic": "pic2.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "There are only 4 countries in the world, the rest is all made up.",
+        "postTime": "9h",
+        "comments": 1,
+        "likes": 34,
+        "retweets": 71,
+        "user": {
+            "username": "@lookatallthosechicken",
+            "nickname": "Kiefer Noble",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "The corona pandemic is not real. The government made it up to get rid of all human rights.",
+        "postTime": "4h",
+        "comments": 100,
+        "likes": 45,
+        "retweets": 74,
+        "user": {
+            "username": "@ismelllikebeef",
+            "nickname": "Rabia Joseph",
+            "profilePic": "pic3.jpg"
+        },
+        "reported": "v-fake",
+        "source": null
+    },
+    {
+        "body": "Drinking disinfectant is a safe way to gain immunity to the corona virus.",
+        "postTime": "5h",
+        "comments": 154,
+        "likes": 323,
+        "retweets": 712,
+        "user": {
+            "username": "@luvtru",
+            "nickname": "Jolyon Mccormick",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Have a look at the sky, it's all red. #really",
+        "postTime": "5h",
+        "comments": 1,
+        "likes": 1,
+        "retweets": 7,
+        "user": {
+            "username": "@icantred",
+            "nickname": "Umayr Reader",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Bees are physically unable to fly, instead they have psychic abilities. ",
+        "postTime": "2h",
+        "comments": 2,
+        "likes": 2,
+        "retweets": 1,
+        "user": {
+            "username": "@aliportali",
+            "nickname": "Alishba Portillo",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I can't believe that there's just 4 different countries lol ... #facts",
+        "postTime": "3h",
+        "comments": 104,
+        "likes": 33,
+        "retweets": 71,
+        "user": {
+            "username": "@user946293423",
+            "nickname": "Eoghan Orr",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Corona is just made up by the government to slowly strap us of all our rights. #checkyourfacts",
+        "postTime": "1h",
+        "comments": 431,
+        "likes": 323,
+        "retweets": 567,
+        "user": {
+            "username": "@tyratyra",
+            "nickname": "Tyra Traynor",
+            "profilePic": "pic4.jpg"
+        },
+        "reported": "a-fake",
+        "source": 8
+    },
+    {
+        "body": "I just drank some disinfectant. I am now immune to #corona",
+        "postTime": "6h",
+        "comments": 122,
+        "likes": 132,
+        "retweets": 127,
+        "user": {
+            "username": "@ricky77odom",
+            "nickname": "Ricky Odom",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I'd really like to go the gym now!",
+        "postTime": "7h",
+        "comments": 21,
+        "likes": 13,
+        "retweets": 17,
+        "user": {
+            "username": "@ce3712",
+            "nickname": "Celine Albert",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "Does anyone else like baked potatoes for breakfast?",
+        "postTime": "3h",
+        "comments": 21,
+        "likes": 13,
+        "retweets": 47,
+        "user": {
+            "username": "@sufyanmcknihgt",
+            "nickname": "Sufyan Mcknight",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I can't believe he did that!!! :O #lifestream #watching",
+        "postTime": "2h",
+        "comments": 100,
+        "likes": 387,
+        "retweets": 123,
+        "user": {
+            "username": "@joethemor",
+            "nickname": "Johanna Morris",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "How is the quarantine going for everyone?",
+        "postTime": "9h",
+        "comments": 13,
+        "likes": 35,
+        "retweets": 75,
+        "user": {
+            "username": "@soerenViegener",
+            "nickname": "Soeren V",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I work at a 5G antenna and I just noticed, that I put the setting on \"spread COVID-19\" instead of the usual \"make people gay\" whoopsie doodle",
+        "postTime": "8h",
+        "comments": 111,
+        "likes": 423,
+        "retweets": 721,
+        "user": {
+            "username": "@bethgu",
+            "nickname": "Bethany Guevara",
+            "profilePic": "pic5.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "I just found out that the earth is actually flat!! #shocked",
+        "postTime": "2h",
+        "comments": 12,
+        "likes": 3,
+        "retweets": 7,
+        "user": {
+            "username": "@wheeler_co",
+            "nickname": "Lennie Wheeler",
+            "profilePic": "default.jpg"
+        },
+        "reported": null,
+        "source": null
+    },
+    {
+        "body": "The tides are due to the gravitational pull of the Moon and the Sun on the Earth.",
+        "postTime": "1h",
+        "comments": 1123,
+        "likes": 332,
+        "retweets": 712,
+        "user": {
+            "username": "@jostfrae",
+            "nickname": "Jae Frost",
+            "profilePic": "pic6.jpg"
+        },
+        "reported": null,
+        "source": null
+    }
+]

@@ -1,0 +1,163 @@
+body,
+html {
+    background-color: rgb(21, 32, 43);
+    color: white;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Verdana,
+        Geneva,
+        sans-serif;
+}
+
+
+.center-container {
+    margin: 20px auto;
+    max-width: 800px;
+    width: 90%;
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    height: calc(100% - 40px);
+}
+
+.profile-pic {
+    width: 47px;
+    height: 47px;
+    border-width: 1px;
+
+}
+
+.nickname-label {
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.username-label,
+.time-label {
+    padding-left: 5px;
+    color: gray;
+}
+
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 24px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.user-info-box {
+    display: flex;
+    width: fit-content;
+    flex-direction: row;
+    justify-content: start;
+    margin-bottom: 5px;
+
+}
+
+.time-label-link {
+    color: gray;
+}
+
+.tweet-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    border: 1px solid rgb(132, 145, 156);
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    border-top: none;
+    padding: 10px;
+}
+
+.tweet-info-box {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    width: 90%;
+    margin-top: 10px;
+    color: rgb(132, 145, 156);
+}
+
+.report-button {
+    height: 24px;
+    width: 24px;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.1s;
+}
+
+.report-button:hover {
+    color: rgb(228, 199, 70);
+    background-color: rgb(228, 199, 70, 0.2);
+    cursor: pointer;
+}
+
+.tweet-content {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+    margin-left: 10px;
+
+    width: 100%;
+
+}
+
+.warning-sign {
+    background-color: rgb(255, 102, 102, 0.2);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: rgb(255, 102, 102);
+}
+
+.v-true {
+    background-color: rgba(138, 255, 102, 0.2);
+    color: rgb(104, 209, 73);
+}
+
+.a-true {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: rgb(255, 255, 255);
+}
+
+.a-fake {
+    background-color: rgba(228, 199, 70, 0.2);
+    color: rgb(228, 199, 70);
+}
+
+
+
+.tweet-icon {
+    width: 18px;
+    height: 18px;
+    border-radius: 0;
+    margin-right: 5px;
+    vertical-align: middle;
+    object-fit: contain;
+}
+
+.button-box {
+    width: 100px;
+    height: 24px;
+    line-height: 10px;
+}
